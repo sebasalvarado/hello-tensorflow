@@ -1,1 +1,4 @@
 .git
+/log_simple_graph/*
+/log_simple_stats/*
+/.idea/*
